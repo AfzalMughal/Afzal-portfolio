@@ -4,7 +4,7 @@
 ---
 
 ## 🌐 Live Website
-🔗 https://afzal-mughal.github.io/Afzal-portfolio/
+🔗 https://afzalmughal.github.io/Afzal-portfolio/
 
 ---
 
@@ -41,4 +41,4 @@ I am looking for opportunities to work as a junior web developer and improve my 
 
 ---
 
-⭐ Don't forget to give a star if you like my work! 
+⭐ Don't forget to give a star if you like my work!
